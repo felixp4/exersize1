@@ -1,0 +1,24 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	background: lightgray;
+}
+
+header {
+	margin: 100px auto;
+	padding: 50px;
+	background: lightgreen;
+}
+
+main {
+	margin: 50px 100px;
+	padding: 30px;
+	background: lightcoral;
+}
+
+footer {
+	margin: 20px;
+	padding: 100px;
+	border: 5px dotted sandybrown;
+	background: lightskyblue;
+}
